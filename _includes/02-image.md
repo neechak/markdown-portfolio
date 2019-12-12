@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of the worm](https://media0.giphy.com/media/YiJn0dXMKDkhHNXDLC/giphy.gif)
