@@ -1,3 +1,3 @@
-:sparkles: Movies
-:sparkles: Sushi
-:sparkles: Sleeping
+1. :sparkles: Movies
+2. :sparkles: Sushi
+3. :sparkles: Sleeping
