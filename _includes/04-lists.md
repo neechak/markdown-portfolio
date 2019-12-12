@@ -1,3 +1,3 @@
-- Movies
-- Sushi
-- Sleeping
+* Movies
+* Sushi
+* Sleeping
